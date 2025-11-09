@@ -137,7 +137,7 @@ Before you begin, ensure you have the following installed:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ai-quiz-generator.git
+git clone https://github.com/Dhanunjay2704/ai-quiz-generator.git
 cd ai-quiz-generator
 ```
 
