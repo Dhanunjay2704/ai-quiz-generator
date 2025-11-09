@@ -1,6 +1,8 @@
 # AI Wiki Quiz Generator
 
 A full-stack application that transforms Wikipedia articles into engaging, AI-powered educational quizzes using FastAPI, React, PostgreSQL, and Google's Gemini AI.
+To view application click on this link:
+https://quiz-generator-frontend-12l3.onrender.com/
 
 ## 📋 Table of Contents
 
